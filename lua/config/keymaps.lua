@@ -3,6 +3,7 @@ local opts = { noremap = true, silent = true }
 
 keymap.set("i", "jk", "<Esc>", opts)
 keymap.set("i", "jj", "<Esc>", opts)
+
 -- Do things without affecting the registers
 keymap.set("n", "x", '"_x')
 keymap.set("n", "<Leader>p", '"0p')
