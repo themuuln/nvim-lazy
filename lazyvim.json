@@ -1,10 +1,11 @@
 {
   "extras": [
-    "lazyvim.plugins.extras.coding.codeium"
+    "lazyvim.plugins.extras.coding.codeium",
+    "lazyvim.plugins.extras.vscode"
   ],
   "news": {
-    "NEWS.md": "3415",
-    "doc/news.txt": "14318"
+    "NEWS.md": "3314",
+    "doc/news.txt": "13995"
   },
   "version": 3
 }

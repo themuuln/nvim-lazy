@@ -9,7 +9,4 @@ return {
 			require("codeium").setup({})
 		end,
 	},
-	{
-		"andweeb/presence.nvim",
-	},
 }
